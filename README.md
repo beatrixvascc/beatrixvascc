@@ -18,7 +18,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=java,python&theme=light)](https://skills.thijs.gg)
 
 ### Currently learning:
-[![My Skills](https://skills.thijs.gg/icons?i=flask,mysql&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=flask,mysql,docker,django,mongodb,postgresql&theme=light)](https://skills.thijs.gg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
