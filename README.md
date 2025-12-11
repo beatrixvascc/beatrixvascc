@@ -7,18 +7,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrixvascc&show_icons=true&count_private=true&hide_border=true&title_color=c874b2&icon_color=FFFAF0&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Vasconcelos github stats" /> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beatrixvascc&bg_color=0d1117&color=c874b2&line=c874b2&point=f5d5e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center"> 
 <a href = "https://mail.google.com/mail/u/1/#inbox"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ana-beatriz-vasconcelos-5b5914208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{beatrixvascc}/count.svg" /></p> 
-<br>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b337d&height=120&section=footer"/>
